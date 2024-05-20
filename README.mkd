@@ -1,5 +1,10 @@
 # COM3505 Lab Assessment 1
 
+## Contributors
+    Ethan Watts (eawatts1@sheffield.ac.uk)
+    Mohammad Tahir Khan (mtkhan1@sheffield.ac.uk)
+
+
 ## Video of System In Use
 Available on youtube at https://www.youtube.com/watch?v=JpJkHWHirBM.
 
